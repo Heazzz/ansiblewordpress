@@ -20,6 +20,7 @@ Quickstart guide for those already familiar with Ansible:
 ### 1. Obtain the playbook
 ```shell
 mkdir /etc/ansible/ansible-playbooks
+cd /etc/ansible/ansible-playbooks
 git clone https://github.com/Heazzz/ansiblewordpress.git
 ```
 
